@@ -68,7 +68,7 @@ http://localhost:8888/admin/
 
 # Docker update / upgrade
 Usually, you update the Teslalogger in admin-panel by clicking on update button.
-If there are updates of the subsystem, you have to get the latest docker-compose.yam file.
+If there are updates of the subsystem, you have to get the latest docker-compose.yml file.
 
 ```
 docker-compose stop
